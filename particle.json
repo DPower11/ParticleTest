@@ -1,1 +1,7 @@
-
+{
+  "name": "DPower11",
+  "author": "Draydan Power <dpower11@gmail.com>",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Test library to practice using GitHub and creating/adding libraries to Particle IDE."
+}
