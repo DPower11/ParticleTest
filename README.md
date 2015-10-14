@@ -5,3 +5,5 @@ The required files are: repo with public clone URL, a JSON manifest (particle.js
 Don't forget to bring a towel!
 
 Closing issues.
+
+More changes here.
